@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dafarvn&theme=transparent&layout=compact&custom_title=Language%20Stats%20(wakatime.com/@dafarvn)&langs_count=6&hide=text,other" alt="dafarvn" /></p>
 
+<a href="https://wakatime.com/@f27ea998-c7c9-4360-9566-7149bd604080"><img src="https://wakatime.com/badge/user/f27ea998-c7c9-4360-9566-7149bd604080.svg" alt="Total time coded since Dec 31 2024" /></a>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
