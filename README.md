@@ -25,11 +25,4 @@
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 
-<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
-</br>
-<a href="https://open.spotify.com/user/u2t0mkri5smlqq10fa3xia6om"><img src="https://spotify-now-playing-dafarvn.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
-
-<details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/u2t0mkri5smlqq10fa3xia6om"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
-</details>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="Back to Top" /></a></p>
