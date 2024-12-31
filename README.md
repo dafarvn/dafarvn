@@ -15,5 +15,4 @@
 
 <h2>:busts_in_silhouette: Get in Touch</h2>    
 <a href="https://instagram.com/dfarvn"><img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=/dfarvn&color=000000&style=for-the-badge&logo=instagram" height="22px"/></a>
-
 <a href="mailto:dfarvn@gmail.com"><img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dfarvn@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px"/></a>
