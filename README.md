@@ -14,7 +14,8 @@
 </div>
 
 <h2>:busts_in_silhouette: Get in Touch</h2>
-<a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px"/></a>
+<a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px">
+</a>
     
 <a href="https://instagram.com/dfarvn"><img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=/dfarvn&color=000000&style=for-the-badge&logo=instagram" height="22px"/></a>
 
