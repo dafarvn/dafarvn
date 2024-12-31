@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-    <img width="100%" alt="welcome to my profile!" src="assets/welcome.png">
+    <img width="100%" alt="welcome to my profile!" src="https://cdn.discordapp.com/attachments/1280051349207253042/1323488962047770747/welcome.png?ex=6774b2a5&is=67736125&hm=31f1dd023386a04144e3aeff1890e86fb953534d8ecda2145cc31b602e34d5d6&">
 </div>
 <h1>Hi! I'm DaFa Rizki Revansyah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafarvn&label=Profile%20views&color=0e75b6&style=flat" alt="dafarvn" />
