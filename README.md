@@ -25,8 +25,6 @@
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dafarvn&theme=transparent&layout=compact&custom_title=Language%20Stats%20(wakatime.com/@dafarvn)&langs_count=6&hide=text,other" alt="dafarvn" /></p>
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+dropping+by!" >
