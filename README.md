@@ -13,4 +13,4 @@
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/dafarvn/dafarvn?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 </div>
 
-h2>:busts_in_silhouette: Contact me</h2>
+<h2>:busts_in_silhouette: Contact me</h2>
