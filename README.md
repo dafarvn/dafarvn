@@ -25,4 +25,6 @@
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 
+<div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=7E3ACE&style=flat&logo" alt="Back to Top" /></a></p>
+</div>
