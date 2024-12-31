@@ -14,3 +14,4 @@
 </div>
 
 <h2>:busts_in_silhouette: Contact me</h2>
+<a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px">
