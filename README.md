@@ -17,7 +17,7 @@
 <a href="mailto:dafaflare@gmail.com"><img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dafaflare@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px"/></a>
 
 <h2>:bulb: Languages and Frameworks I Use</h2>
-<code><img title="Golang" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" /></code>
+<code><img title="Golang" alt="golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
