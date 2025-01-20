@@ -14,7 +14,7 @@
 <a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px"></a>
 <a href="https://discord.com/channels/@me/1136638093101891665"><img alt="link to my Discord" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=discord" height="22px"/></a>
 <a href="https://instagram.com/dfarvn"><img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=instagram" height="22px"/></a>
-<a href="mailto:dafaflare@gmail.com"><img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dafaflare@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px"/></a>
+<a href="mailto:dafaflare@proton.me"><img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dafaflare@proton.me&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px"/></a>
 
 <h2>:bulb: Languages and Frameworks I Use</h2>
 <code><img title="Golang" alt="golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
